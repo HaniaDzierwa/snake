@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  Game.cpp
+  main.cpp
+  Points.cpp
+  Snake.cpp
+C:\Users\hania\Desktop\nuaka z Krzysiem\snake\snake\Snake.cpp(44,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  State.cpp
+  Generowanie kodu...
+  snake.vcxproj -> C:\Users\hania\Desktop\nuaka z Krzysiem\snake\Debug\snake.exe
